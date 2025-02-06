@@ -37,44 +37,75 @@ var credits = [
 		" 
 		 
 		 ",
-		"A game by... TBD?"
+		"A game by Sifr Studios"
 	],[
 		"Programming",
+		"",
 		"Nourin Awad",
+		"",
 		"Mohamed Hassan",
+		"",
 		"Omar Ashraf",
+		"",
 		"Marwa Al-Azzazi",
-		"Yousef Fawzy"
+		"",
+		"Yousef Fawzy",
+		"",
 	],[
 		"Art",
 		"Menna Ewis",
-		"Other Artists Online"
+		"",
+		"Other Artists Mentioned in Resources",
+		"",
 	],[
 		"Music",
-		"Lowkey Stole It But Its Ok"
-	],[
-		"Sound Effects",
-		"Also Lowkey Stole It"
+		"",
+		"Mr. Brightside (8-Bit Version) - 8-Bit Universe",
+		"",
+		"Shiroku - Sports Men (Haruomi Hosono Instrumental Cover)",
+		"",
+		"Model 500 - Electric Night",
+		"",
+		"Mario Ground Theme",
+		"",
+		"Bowser Battle - Super Mario Bros 3 Remix",
+		"",
+		"California Love (8-Bit Version) - 8-Bit Universe",
+		"",
+		"Welcome to the Internet (Instrumental) - Bo Burnham",
+		"",
+		"Ruby - Twenty One Pilots",
+		"",
+		"Dance of the Moonlight Jellies - ConcernedApe",
+		"",
+		"Analyse (Instrumental) - Thom Yorke"
 	],[
 		"Testers",
+		"",
 		"The Rest Of The Team"
 	],[
-		"Tools used",
 		"Developed with Godot Engine",
+		"",
 		"https://godotengine.org/license",
 		"",
-		"Art created with My Favourite Art Program",
-		"https://myfavouriteartprogram.com"
 	],[
 		"Special thanks",
+		"",
 		"Dr. Abeer Tawakol",
+		"",
 		"Eng. Ahmed Ramadan",
-		"And Others"
+		"",
+		"And Others",
+		"",
 	],[
 		"Special hatred",
+		"",
 		"Github",
+		"",
 		"Osboo3 el projects",
-		"Github, again"
+		"",
+		"Github, again",
+		"",
 	],[
 		"Please don't sue us we're just kids"
 	]
