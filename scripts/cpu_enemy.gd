@@ -45,6 +45,7 @@ func update_animation():
 
 func _on_hitbox_body_entered(body: Node2D) -> void:
 	if body.is_in_group("player"):
+		animated_sprite_2d.play("death")
 		is_alive = false
 		Global.enemies_killed += 1
 		queue_free()
